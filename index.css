@@ -6,7 +6,7 @@ header {
   z-index: 1;
   height: 100vh;
   min-height: 850px;
-  background: url(stuff/background.jpg);
+  background: url(stuff/background.png);
 }
 header > div {
   display: flex;
