@@ -84,6 +84,13 @@ const VIDEOS = [
 
 const FILE_DOWNLOADS = [
   'fryderyk.jpg',
+  'fryderyk.jpg',
+  'fryderyk.jpg',
+  'fryderyk.jpg',
+  'fryderyk.jpg',
+  'fryderyk.jpg',
+  'fryderyk.jpg',
+  'fryderyk.jpg',
 ]
 
 const PHRASES = [
